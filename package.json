@@ -1,7 +1,7 @@
 {
-  "name": "contact-keeper",
+  "name": "Corona Map for WeVsVirus",
   "version": "1.0.0",
-  "description": "Contact manager app",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,7 +12,7 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "keywords": [],
-  "author": "",
+  "author": "Students of the amazing CODE University",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
